@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini Creative Studio",
+  "description": "An all-in-one AI creative platform for generating commercial-grade images and videos using Gemini and Veo models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
